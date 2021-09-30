@@ -1,0 +1,18 @@
+[INFO ] 2021-09-30 08:53:40.995 [main] SecurePayContactUsForm - User launched the browser
+[INFO ] 2021-09-30 08:53:40.995 [main] SecurePayContactUsForm - User launched the browser
+[INFO ] 2021-09-30 08:53:43.542 [main] SecurePayContactUsForm - User searched with text SecurePay in google searchbar
+[INFO ] 2021-09-30 08:53:43.542 [main] SecurePayContactUsForm - User searched with text SecurePay in google searchbar
+[INFO ] 2021-09-30 08:53:48.015 [main] SecurePayContactUsForm - user clicked on securepay.com.au
+[INFO ] 2021-09-30 08:53:48.015 [main] SecurePayContactUsForm - user clicked on securepay.com.au
+[INFO ] 2021-09-30 08:53:48.294 [main] SecurePayContactUsForm - user clicked on pricing tab
+[INFO ] 2021-09-30 08:53:48.294 [main] SecurePayContactUsForm - user clicked on pricing tab
+[INFO ] 2021-09-30 08:53:48.563 [main] SecurePayContactUsForm - user clicked on Standard Pricing link
+[INFO ] 2021-09-30 08:53:48.563 [main] SecurePayContactUsForm - user clicked on Standard Pricing link
+[ERROR] 2021-09-30 08:53:53.773 [main] SecurePayContactUsForm - Standard pricing is not loaded
+[ERROR] 2021-09-30 08:53:53.773 [main] SecurePayContactUsForm - Standard pricing is not loaded
+[INFO ] 2021-09-30 08:53:53.774 [main] SecurePayContactUsForm - user successfully land on Standard pricing tab
+[INFO ] 2021-09-30 08:53:53.774 [main] SecurePayContactUsForm - user successfully land on Standard pricing tab
+[ERROR] 2021-09-30 08:53:59.291 [main] SecurePayContactUsForm - POLi new tab is not opened
+[ERROR] 2021-09-30 08:53:59.291 [main] SecurePayContactUsForm - POLi new tab is not opened
+[INFO ] 2021-09-30 08:54:03.388 [main] SecurePayContactUsForm - Contact us details are entering in the form
+[INFO ] 2021-09-30 08:54:03.388 [main] SecurePayContactUsForm - Contact us details are entering in the form
